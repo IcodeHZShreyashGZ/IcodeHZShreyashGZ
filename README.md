@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IcodeHZShreyashGZ
 - 👀 I’m interested in Coding  
-- 🌱 I’m currently learning C ,C++ ,Java , Python
+- 🌱 I’m currently learning C ,C++ ,Java , Python, Java Script,HTML and CSS.
 - 📫You can reach me via my Email : hishreyashgiis@gmail.com
                              Discord : Hz Shreyash Gz#4145                         
 <!---
